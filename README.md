@@ -14,7 +14,7 @@
         > *Information Technology - 16-bit Vietnamese Character Encoding Set*
 
 - NPCT ( Nôm Proper Code Table / 喃字专用代码表 )
-    > by *Ngô Thanh Nhàn, James §ỗ, Nguyễn Hoàng* 
+    > by *Ngô Thanh Nhàn, James §ỗ, Nguyễn Hoàng*
 
     - [x] Version 2.1 (22 August 1993) [:link:](https://cs.nyu.edu/~nhan/npct-2.1.pdf)
     - [x] Version 1.0 *A Draft Nôm Proper Code Table* (March 22, 1992)
@@ -33,7 +33,7 @@ Unicode ChuNom V sources:
 - `V1` TCVN 6056:1995
 - `V2` VHN 01:1998
 - `V3` VHN 02:1998
-- `V4` 
+- `V4`
     - ~~Dictionary on Nom 2006 ( Tự điển chữ Nôm / 《喃字词典》 )~~
     - ~~Dictionary on Nom of Tay ethnic 2006(or 2003) ( Từ điển chữ Nôm Tày / 《岱依族喃字词典》 )~~
     - ~~Lookup Table for Nom in the South 1994 ( Bảng tra chữ Nôm miền Nam / 《南部喃字检字表》 )~~
